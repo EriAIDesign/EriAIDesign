@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Eri 👋
 
-<!--
-**EriAIDesign/EriAIDesign** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Creating **AI-assisted design tools** and  
+**reverse-engineering UI visual effects** such as macOS *Liquid Glass*.
 
-Here are some ideas to get you started:
+### 🔬 Recent Work
+- Liquid Glass Previewer (Web)
+- Experiments on visual layering, blur pipelines, and UI physics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech & Interests
+- Web rendering / CSS filter pipelines
+- Reverse-engineering UI behaviors
+- AI × Design Tool workflows
+
+### ✨ Links
+- X: https://x.com/EriAIDesign
+- Ko-fi: https://ko-fi.com/eritools
